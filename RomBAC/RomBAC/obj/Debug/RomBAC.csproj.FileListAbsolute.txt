@@ -1,0 +1,62 @@
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.exe.config
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.exe
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.pdb
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Form1.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Properties.Resources.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.exe
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.pdb
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Form2.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.S3.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.genepic.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.opera.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.gendramatic.resources
+C:\Users\user\Desktop\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.genliric.resources
+F:\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.exe.config
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.exe
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.pdb
+F:\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.exe
+F:\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.pdb
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.csprojResolveAssemblyReference.cache
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Form1.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Form2.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.gendramatic.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.genepic.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.genliric.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Properties.Resources.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.S3.resources
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.csproj.GenerateResource.Cache
+G:\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.exe.config
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.exe
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.pdb
+G:\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.exe
+G:\Atestat 2017\RomBAC\RomBAC\bin\Debug\RomBAC.pdb
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.csprojResolveAssemblyReference.cache
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Form1.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Form2.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.gendramatic.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.genepic.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.genliric.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.Properties.Resources.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.S3.resources
+G:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.csproj.GenerateResource.Cache
+F:\Atestat 2017\RomBAC\RomBAC\obj\Debug\RomBAC.test.resources
+F:\InfoEducatie\RomBAC\RomBAC\bin\Debug\RomBAC.exe.config
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.exe
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.pdb
+F:\InfoEducatie\RomBAC\RomBAC\bin\Debug\RomBAC.exe
+F:\InfoEducatie\RomBAC\RomBAC\bin\Debug\RomBAC.pdb
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.csprojResolveAssemblyReference.cache
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.Form1.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.Form2.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.gendramatic.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.genepic.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.genliric.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.Properties.Resources.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.S3.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.test.resources
+F:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.csproj.GenerateResource.Cache
+G:\InfoEducatie\RomBAC\RomBAC\bin\Debug\RomBAC.exe.config
+G:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.exe
+G:\InfoEducatie\RomBAC\RomBAC\obj\Debug\RomBAC.pdb
